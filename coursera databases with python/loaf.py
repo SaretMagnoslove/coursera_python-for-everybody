@@ -1,0 +1,2 @@
+class loaf:
+    pass
